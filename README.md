@@ -1,2 +1,3 @@
-# jekyll-site-archive
-my old personal site archived here incase it can be of any help to anyone struggling with jekyll
+# README
+
+A minimal jekyll blog built from [jekyll base](https://github.com/danielmcgraw/Jekyll-Base) with no theme.

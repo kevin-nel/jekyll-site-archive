@@ -1,0 +1,7 @@
+title: Personal Site
+author: Name
+description: A small description about the site.
+permalink: :title:output_ext/
+markdown: kramdown
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
